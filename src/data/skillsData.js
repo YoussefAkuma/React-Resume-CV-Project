@@ -14,6 +14,5 @@
     "Java",
     "Android Studio"
     
-  
 ]
 
