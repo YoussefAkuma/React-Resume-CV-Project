@@ -5,16 +5,16 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'Note App Mobile',
-        projectDesc: 'projet de matiére android studio ',
+        projectDesc: 'Projet de matiére Développement mobile ',
         tags: ['java', 'xml'],
-        code: 'https://drive.google.com/file/d/1K3v5HoypfbudAZGrJqHaI0qRdOa4jiPU/view?usp=share_link',
+        code: 'https://github.com/YoussefAkuma/NoteApp-Project',
         demo: '',
         image: ''
     },
     {
         id: 3,
         projectName: 'Analyse de donnée Cristiano Ronaldo',
-        projectDesc: 'project matiére data analyst',
+        projectDesc: 'Projet de  matiére data analyst',
         tags: ['jupyter,python'],
         code: 'https://github.com/YoussefAkuma/DataAnalyst0',
         demo: '',
